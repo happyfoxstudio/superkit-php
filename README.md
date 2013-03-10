@@ -1,4 +1,4 @@
-mustashed-bear-php
+superkit-php
 ==================
 
-Mustashed Bear is a tiny framework to make reusable widget.
+SuperKit is a tiny framework to make reusable widget.
